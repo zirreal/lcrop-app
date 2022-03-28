@@ -10,7 +10,7 @@
         name='projectName'
         type='text'
         placeholder="Enter project name"
-        @change="cleanField"
+        @input="cleanField"
         v-model="projectName" >
       <button
         type='submit'

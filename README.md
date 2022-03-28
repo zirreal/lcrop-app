@@ -40,6 +40,10 @@ https://lcorp-b677a.web.app
 - yup
 - date-fns
 
+### sign in using this info or create a new account: 😊
+  - email: lex@lcorp.com
+  - password: 12345lex
+
 
 ---
 
@@ -90,3 +94,8 @@ https://lcorp-b677a.web.app
 - vee-validate
 - yup
 - date-fns
+
+
+### Для входа используйте данные ниже или создайте новый аккаунт : 😊
+  - email: lex@lcorp.com
+  - password: 12345lex
